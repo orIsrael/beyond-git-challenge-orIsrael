@@ -1,11 +1,15 @@
 Aliquam elementum, turpis eu lacinia faucibus, diam elit
 sollicitudin nunc, sit amet sodales leo sapien et sem.
-
 Maecenas mauris eros, sollicitudin at elit in,
 pellentesque
 mattis orci. Aliquam elementum finibus dictum.
 
+<<<<<<< HEAD
 CHANGED BY MAINTAINER
+=======
+CHANGED BY CONTRIBUTOR
+>>>>>>> 59fc750 (Edit file1.txt&file2.txt&file3.txt)
 
 Integer ac nibh nec est porttitor semper ultrices eu
 ligula. Etiam sodales porttitor venenatis.
+ 
